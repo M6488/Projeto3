@@ -1,0 +1,16 @@
+{
+    "name": "Personal análise",
+    "short_name": "pa",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "mande sua foto para um personal analisar",
+    "icons": [
+      {
+        "src": "/icons/icon.jpg",
+        "type": "image/jpg",
+        "sizes": "192x192"
+      }
+    ]
+  }
